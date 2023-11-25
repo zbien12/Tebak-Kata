@@ -85,7 +85,7 @@ const wordList = [
     },
     {
         word: "raysad",
-        hint: "baju tembus"
+        hint: "al-azhar"
     },
     {
         word: "zaki",
@@ -158,5 +158,65 @@ const wordList = [
     {
         word: "afra",
         hint: "danusan for lyfe"
+    },
+    {
+        word: "mbashinta",
+        hint: "aslab pacarnya rama"
+    },
+    {
+        word: "mbadea",
+        hint: "aslab gak kerudungan"
+    },
+    {
+        word: "pakbayu",
+        hint: "induksi matematika (dosen)"
+    },
+    {
+        word: "buluci",
+        hint:  "rumahnya di magelang (dosen)"
+    },
+    {
+        word: "bupuspita",
+        hint: "sayang anak (dosen)"
+    },
+    {
+        word: "pakheru",
+        hint: "IMRAD (dosen)"
+    },
+    {
+        word: "buratna",
+        hint: "mendeley for lyfe (dosen)"
+    },
+    {
+        word: "buzani",
+        hint: "cantiknya MasyaAllah (dosen)"
+    },
+    {
+        word: "pakjovian",
+        hint: "abi (dosen)"
+    },
+    {
+        word: "pakheri",
+        hint: "yok yang bisa yok (dosen)"
+    },
+    {
+        word: "pakaziz",
+        hint: "10.30 (dosen)"
+    },
+    {
+        word: "bunikken",
+        hint: "mamah (dosen)"
+    },
+    {
+        word: "butiti",
+        hint: "salatiga (dosen)"
+    },
+    {
+        word: "paksur",
+        hint: "artinya apa? (dosen)"
+    },
+    {
+        word: "buanin",
+        hint: "papan miring (dosen)"
     },
 ]
